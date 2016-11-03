@@ -1,0 +1,4 @@
+com\soa\crudapp\controller\CrudAppController.class
+com\soa\crudapp\dao\PublicacaoDAO.class
+com\soa\crudapp\config\CrudAppConfig.class
+com\soa\crudapp\modelo\Publicacao.class
